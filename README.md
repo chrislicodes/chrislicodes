@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislicodes&label=Profile%20views&color=0e75b6&style=flat" alt="chrislicodes" /> </p>
 
-- 🌱 I’m currently learning **Node/Express, TypeScript, Algorithms**
+- 🌱 I’m currently learning **WebGL/Three.js and TypeScript**
 
 - 💬 Ask me about **Frontend - Development / React**
 
