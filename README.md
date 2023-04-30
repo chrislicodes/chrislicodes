@@ -1,7 +1,5 @@
 # Hello Hello! 👀
 
-I'm Chris, nice to meet you 👋
-
 <img src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" width="250"/>
 
 <!-- Links -->
